@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emtiaz Hossain Emon 
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in React Native 
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me emtiazhossainrzs@gmail.com 
 
