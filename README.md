@@ -26,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmtiazHossainE2)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmtiazHossainE2&show_icons=true) 
 
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: Current Streak
 <br />  
 
  ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=EmtiazHossainE2&theme=jolly&hide_border=true)
