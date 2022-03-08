@@ -21,14 +21,17 @@
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/> 
 
-## :chart_with_upwards_trend: Current Stats
+
+<h2 align="center">
+     :chart_with_upwards_trend: Current Stats
+</h2>
 <br /> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmtiazHossainE2)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmtiazHossainE2&show_icons=true) 
 
-<p align="center">
-    ## :chart_with_upwards_trend: Current Streak 
-</p>
+<h2 align="center">
+     :chart_with_upwards_trend: Current Streak 
+</h2>
 
 
 <br />  
