@@ -1,4 +1,4 @@
-## :eyes: Current overview
+## :eyes: Current overview      
 <br />
 
 - 👋 Hi, I’m Emtiaz Hossain Emon 
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me emtiazhossainrzs@gmail.com 
 
-## :mailbox: Reach me out
+## :mailbox: Reach me out :      [![Github](https://img.shields.io/github/followers/EmtiazHossainE2?label=Follow&style=social)](https://github.com/EmtiazHossainE2)&nbsp;![Profile views](https://gpvc.arturio.dev/EmtiazHossainE2)
 
 <br />
 
