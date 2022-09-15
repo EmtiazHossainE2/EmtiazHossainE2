@@ -2,7 +2,7 @@
 <br />
 
 - 👋 Hi, I’m Emtiaz Hossain Emon 
-- 👀 I’m interested in React Native 
+- 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning React Js
 - 📫 How to reach me emtiazhossainrzs@gmail.com 
 - 📫 My Portfolio [(https://emtiaz-hossain.vercel.app//)](https://emtiaz-hossain.vercel.app/) 
