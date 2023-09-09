@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Emtiaz Hossain Emon 
 - 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Jest (Testing React App )
 - 📫 How to reach me emtiazhossainrzs@gmail.com 
 - 📫 My Portfolio [(https://emtiaz-hossain.vercel.app//)](https://emtiaz-hossain.vercel.app/) 
 
