@@ -2,9 +2,8 @@
 <br />
 
 - 👋 Hi, I’m Emtiaz Hossain Emon 
-- 👀 I’m interested in Web Analyst  
+- 👀 I’m interested in Web Analytics  
 - 🌱 I’m currently learning Tracking & SQL
-- 📫 How to reach me emtiazhossainrzs@gmail.com 
 - 📫 My Portfolio [(https://emtiaz-v2.com/)](https://emtiaz-v2.com/) 
 
 <!-- ## :mailbox: Reach me out :      [![Github](https://img.shields.io/github/followers/EmtiazHossainE2?label=Follow&style=social)](https://github.com/EmtiazHossainE2)&nbsp;![Profile views](https://gpvc.arturio.dev/EmtiazHossainE2)  -->
